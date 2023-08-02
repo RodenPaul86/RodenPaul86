@@ -21,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rodenpaul86&" alt="rodenpaul86" /></p>
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodenpaul86&show_icons=true&locale=en&layout=compact" alt="rodenpaul86" /></p>
