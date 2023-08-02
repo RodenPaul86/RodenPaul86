@@ -18,6 +18,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/paulRoden"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/paulRoden" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodenpaul86&show_icons=true&locale=en&layout=compact" alt="rodenpaul86" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodenpaul86&" alt="rodenpaul86" /></p>
