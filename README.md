@@ -20,8 +20,4 @@
 
 <br><br><br>
 
-<h3 align="left"><img src="https://ghchart.rshah.org/RodenPaul86" width="720">
-  
-<br><br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodenpaul86&" alt="rodenpaul86" /></p>
