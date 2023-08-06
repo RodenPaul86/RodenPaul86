@@ -50,8 +50,8 @@
 <h2 align="center"> ⚡️ Stats ⚡️</h2>
 <br/>
 <div align="center">
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=rodenpaul86&" alt="rodenpaul86" />  
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=rodenpaul86&show_icons=true&locale=en" alt="rodenpaul86" />
+<img width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=rodenpaul86&" alt="rodenpaul86" />  
+<img width=380 src="https://github-readme-stats.vercel.app/api?username=rodenpaul86&show_icons=true&locale=en" alt="rodenpaul86" />
 <br/>
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodenpaul86&show_icons=true&locale=en&layout=compact" alt="rodenpaul86" />
 </div>
