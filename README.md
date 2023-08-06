@@ -41,10 +41,7 @@
 <h2>🪴 My Contributions 🪴</h2>
 <br>
 
-
-
-
-<br/><br/><br/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodenPaul86&theme=github-compact)](https://github.com/RodenPaul86/github-readme-activity-graph)
 </div>
 
 <br/>
