@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rodenpaul86&label=Profile%20views&color=0e75b6&style=flat" alt="rodenpaul86" /> </p>
-
 <h1 align="center">Hi 👋, I'm Paul Roden Jr</h1>
 
 <h3 align="center">Coding Enthusiast | Open Source Advocate</h3>
