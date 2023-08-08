@@ -19,10 +19,11 @@
 <h2 align="center">🔗 Connect With Me 🔗</h2>
 <br/>
 <div align="center">
-<a href="https://linkedin.com/in/paul-roden-4a1395167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-roden-4a1395167" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3187794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3187794" height="30" width="40" /></a>
-<a href="https://fb.com/paulroden86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paulroden86" height="30" width="40" /></a>
-<a href="https://dribbble.com/s4d_coder86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="s4d_coder86" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paul-roden-4a1395167" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40" /></a>
+<a href="https://stackoverflow.com/users/3187794" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="3187794" width="40" height="40" /></a>
+<a href="https://fb.com/paulroden86" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="paulroden86" width="40" height="40" /></a>
+<a href="https://dribbble.com/s4d_coder86" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="s4d_coder86" width="40" height="40" /></a>
+<a href="https://github.com/RodenPaul86" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/github/github-tile.svg" alt="RodenPaul86" width="40" height="40" /></a>
 </p>
 
 </div>
@@ -32,11 +33,14 @@
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
 <br/>
 <div align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+<a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="apple_xcode" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="apple_xcode" width="40" height="40"/> </a> 
+<a href="https://raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> </a>
+</p>
 
-
-  
 </div>
 
 <hr/>
