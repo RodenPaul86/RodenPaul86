@@ -15,22 +15,18 @@
 </div>
 
 <hr/>
-
 <h2 align="center">🔗 Connect With Me 🔗</h2>
-<br/>
 <div align="center">
 <a href="https://linkedin.com/in/paul-roden-4a1395167" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40" /></a>
 <a href="https://stackoverflow.com/users/3187794" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="3187794" width="40" height="40" /></a>
 <a href="https://fb.com/paulroden86" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="paulroden86" width="40" height="40" /></a>
 <a href="https://github.com/RodenPaul86" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/github/github-tile.svg" alt="RodenPaul86" width="40" height="40" /></a>
 </p>
-
 </div>
 
 <hr/>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
-<br/>
 <div align="center"> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a>
@@ -45,8 +41,7 @@
 
 <div align="center">
 <h2>🪴 My Contributions 🪴</h2>
-<br>
-
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodenPaul86&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
