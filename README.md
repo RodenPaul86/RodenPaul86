@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paul Roden Jr</h1>
+<h1 align="center">Hi There 👋, I'm Paul</h1>
 
 <h3 align="center">Coding Enthusiast | Open Source Advocate</h3>
 
