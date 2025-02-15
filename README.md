@@ -17,12 +17,20 @@
 <hr/>
 <h2 align="center">🔗 Connect With Me 🔗</h2>
 <div align="center">
-<a href="https://linkedin.com/in/paul-roden-4a1395167" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40" /></a>
-<a href="https://stackoverflow.com/users/3187794" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="3187794" width="40" height="40" /></a>
-<a href="https://fb.com/paulroden86" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="paulroden86" width="40" height="40" /></a>
-<a href="https://github.com/RodenPaul86" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/github/github-tile.svg" alt="RodenPaul86" width="40" height="40" /></a>
+<a href="https://linkedin.com/in/paul-roden-4a1395167" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin icon" width="40" height="40" /></a>
+<a href="https://stackoverflow.com/users/3187794" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="StackOverFlow icon" width="40" height="40" /></a>
+<a href="https://fb.com/paulroden86" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="FaceBook icon" width="40" height="40" /></a>
+<a href="https://github.com/RodenPaul86" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub icon" width="40" height="40" /></a>
+<a href="https://github.com/RodenPaul86" target="_blank" rel="noreferrer"> <img src="images/bmc-logo-yellow.png" alt="BMC icon" width="40" height="40"
+/></a>
 </p>
 </div>
+
+
+
+images/bmc-logo-yellow.png
+
+
 
 <hr/>
 
