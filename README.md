@@ -25,13 +25,6 @@
 /></a>
 </p>
 </div>
-
-
-
-images/bmc-logo-yellow.png
-
-
-
 <hr/>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
