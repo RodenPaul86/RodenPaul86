@@ -21,7 +21,7 @@
 <a href="https://stackoverflow.com/users/3187794" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="StackOverFlow icon" width="40" height="40" /></a>
 <a href="https://fb.com/paulroden86" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="FaceBook icon" width="40" height="40" /></a>
 <a href="https://github.com/RodenPaul86" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub icon" width="40" height="40" /></a>
-<a href="https://github.com/RodenPaul86" target="_blank" rel="noreferrer"> <img src="images/bmc-logo-yellow.png" alt="BMC icon" width="40" height="40"
+<a href="https://buymeacoffee.com/paulrodenjr" target="_blank" rel="noreferrer"> <img src="images/bmc-logo-yellow.png" alt="BMC icon" width="40" height="40"
 /></a>
 </p>
 </div>
