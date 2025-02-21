@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Paul</h1>
 
-<h3 align="center">Coding Enthusiast | Open Source Advocate</h3>
+<h3 align="center">Software Engineer | Open Source Advocate</h3>
 
 <br/>
 
