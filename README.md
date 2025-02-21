@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on <a href="https://github.com/RodenPaul86/DocMatic">DocMatic</a>
+🔭 I’m currently working on [DocMatic](https://github.com/RodenPaul86/DocMatic)
 
 👨‍💻 All of my projects are available on the [iOS App Store](https://apps.apple.com/th/developer/paul-roden-ii/id693041126)
 
