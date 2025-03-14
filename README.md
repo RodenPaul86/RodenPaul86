@@ -52,13 +52,17 @@
 <hr/>
 
 <h2 align="center"> ⚡️ Stats ⚡️</h2>
-<br/>
-<div align="left">
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=rodenpaul86&show_icons=true&theme=dark" alt="rodenpaul86" />  
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=rodenpaul86&show_icons=true&theme=dark&locale=en" alt="rodenpaul86" />
-<br/>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rodenpaul86&show_icons=true&theme=dark&locale=en&rank_icon=github" alt="rodenpaul86" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodenpaul86&show_icons=true&theme=dark&locale=en&layout=compact" alt="RodenPaul86" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodenpaul86&show_icons=true&theme=dark" alt="rodenpaul86" />
+</a>
 
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodenpaul86&show_icons=true&theme=dark&locale=en&layout=compact" alt="RodenPaul86" />
 </div>
 
 <hr/>
