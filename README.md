@@ -6,8 +6,6 @@
 
 <div align="center">
 
-🔭 I’m currently working on [DocMatic](https://github.com/RodenPaul86/DocMatic)
-
 👨‍💻 All of my projects are available on the [App Store](https://apps.apple.com/th/developer/paul-roden-ii/id693041126)
 
 📫 How to reach me **per312@icloud.com**
