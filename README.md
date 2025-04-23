@@ -65,6 +65,11 @@
 <hr/>
 
 <h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/paulrodenjr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paulRoden" /></a></p><br><br>
-
+I embarked on my journey as an independent iOS developer over a decade ago, driven by a passion for building intuitive, meaningful, and beautifully designed mobile applications. Every app and project you see here represents countless hours of learning, iteration, and creativity.
+<br><br/>
+As a indie developer, your support goes a long way. Whether it’s starring a repository, sharing your thoughts, or buying me a coffee, it truly helps me continue doing what I love—creating apps that make everyday life a little better.
+<br><br/>
+Thanks for stopping by and being part of the journey. <br>
+Your support means the world.
 <br/><br/>
+<p><a href="https://www.buymeacoffee.com/paulrodenjr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paulRoden" /></a></p>
