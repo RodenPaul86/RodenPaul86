@@ -65,9 +65,9 @@
 <hr/>
 
 <h2 align="left">Support:</h2>
-I embarked on my journey as an independent iOS developer over a decade ago, driven by a passion for building intuitive, meaningful, and beautifully designed mobile applications. Every app and project you see here represents countless hours of learning, iteration, and creativity.
+A decade ago, I set out on my own as an independent iOS developer. I’ve always loved creating intuitive, meaningful, and beautifully designed mobile apps. Every app and project you see here is a testament to all the hours I’ve spent learning, experimenting, and being creative.
 <br><br/>
-As a indie developer, your support goes a long way. Whether it’s starring a repository, sharing your thoughts, or buying me a coffee, it truly helps me continue doing what I love—creating apps that make everyday life a little better.
+As an indie developer, your support means the world to me. Whether you star a repository, share your thoughts, or even buy me a coffee, it really helps me keep doing what I love—creating apps that make our daily lives a bit easier and more enjoyable.
 <br><br/>
 Thanks for stopping by and being part of the journey. <br>
 Your support means the world.
