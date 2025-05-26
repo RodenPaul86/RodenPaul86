@@ -68,8 +68,8 @@
 A decade ago, I set out on my own as an independent iOS developer. I’ve always loved creating intuitive, meaningful, and beautifully designed mobile apps. Every app and project you see here is a testament to all the hours I’ve spent learning, experimenting, and being creative.
 <br><br/>
 As an indie developer, your support means the world to me. Whether you star a repository, share your thoughts, or even buy me a coffee, it really helps me keep doing what I love—creating apps that make our daily lives a bit easier and more enjoyable.
+<br/><br/>
+<p><a href="https://www.buymeacoffee.com/paulrodenjr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paulRoden" /></a></p>
 <br><br/>
 Thanks for stopping by and being part of the journey. <br>
 Your support means the world.
-<br/><br/>
-<p><a href="https://www.buymeacoffee.com/paulrodenjr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paulRoden" /></a></p>
